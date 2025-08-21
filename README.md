@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Flutter Developer
+#  Hi, I’m a Flutter Developer
 
 I’m a **learner developer** who enjoys turning ideas into real apps. I believe the best way to grow is by building, so I spend most of my time experimenting with Flutter, trying out new tools, and learning something new every day.  
 
